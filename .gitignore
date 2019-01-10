@@ -1,0 +1,14 @@
+SocialNetwork-Examples/target/
+SocialNetwork-contents/target/
+SocialNetwork-linkprediction/target/
+SocialNetwork-subsampling/target/
+SocialNetwork-core/target/
+SocialNetwork-metrics/target/
+target/
+nbactions.xml
+nb-configuration.xml
+*/nb-actions.xml
+*/nbactions-*
+*/nbactions.xml
+*/nb-configuration.xml
+/SocialNetwork-utils/nbproject/
