@@ -35,8 +35,8 @@
         </dependency>
         <dependency>
             <groupId>es.uam.eps.ir</groupId>
-            <artifactId>SocialNetwork-contents</artifactId>
-            <version>0.01</version>
+            <artifactId>JSocialNetworks-contents</artifactId>
+            <version>0.1</version>
             <type>jar</type>
         </dependency>
         <dependency>

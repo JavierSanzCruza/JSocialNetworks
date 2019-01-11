@@ -12,8 +12,8 @@
     <dependencies>
         <dependency>
             <groupId>es.uam.eps.ir</groupId>
-            <artifactId>SocialNetwork-research-utils</artifactId>
-            <version>0.01</version>
+            <artifactId>JSocialNetworks-utils</artifactId>
+            <version>0.1</version>
             <type>jar</type>
         </dependency>
         <dependency>
